@@ -1,2 +1,3 @@
 # pystan_timing
-Testing pystan
+Testing pystan.
+See [here](http://discourse.mc-stan.org/t/fit-extract-takes-a-long-time/4159).
